@@ -5,7 +5,7 @@ ECS736U/ECS736P - Information Retrieval - Projects Completed for this module are
 
 The aim of this assignment is to read, discuss, and present a research paper in the Information Retrieval domain. You will work in a team of 3-4 students. A starting list of references is provided below for you to choose from. You can also expand your reading and choose a related, more recent research paper online.
 
-# Search Engine Design
+# Assignment 2: Search Engine Design
 
 As part of your practical coursework, you are asked to build a search engine. You will work with the same group as in Assignment 1, unless for exceptional reasons, the group can be changed after discussion with and approval by the MO.
 
