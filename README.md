@@ -1,7 +1,7 @@
 # Information-Retrieval-Projects
 ECS736U/ECS736P - Information Retrieval - Projects Completed for this module are presented here. 
 
-# Research Paper Presentation
+# Assignment 1: Research Paper Presentation
 
 The aim of this assignment is to read, discuss, and present a research paper in the Information Retrieval domain. You will work in a team of 3-4 students. A starting list of references is provided below for you to choose from. You can also expand your reading and choose a related, more recent research paper online.
 
@@ -13,7 +13,7 @@ The aim of Assignments 2 and 3 is to fully understand how a search engine is bui
 
 There are no restrictions in terms of tools, programming languages, and application/domains. A search engine interface is not compulsory, while you may want to consider interface components useful for your specific focus, like query recommendation, user feedback functions, etc.
 
-## Assignment 2: Search Engine Design Report
+## Search Engine Design Report
 
 In this assignment, you are expected to submit a 3 to 6-page report to describe the design of a search engine you would like to build. In the report, the following information can be included (but is not limited to):
 
@@ -26,7 +26,7 @@ In this assignment, you are expected to submit a 3 to 6-page report to describe 
 
 All the above need to be justified. The mark distribution can be considered as a general guideline. Your report should be submitted via QMPlus in PDF format.
 
-## Assignment 3: Search Engine Presentation and Demo
+# Assignment 3: Search Engine Presentation and Demo
 
 The aim of Assignments 2 and 3 is to fully understand how a search engine is built by actually designing and implementing the search engine, and to present and demonstrate it to us. The expected outcome is a search system which allows entering a query (could be via a command line or GUI) and getting an output, i.e., a ranked list of documents. In the presentation, the following should be made clear:
 
